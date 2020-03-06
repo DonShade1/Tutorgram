@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DAA520</color>
+    <color name="colorPrimaryDark">#DAA520</color>
+    <color name="colorAccent">#DAA520</color>
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="colorblue">#DAA520</color>
+
+</resources>

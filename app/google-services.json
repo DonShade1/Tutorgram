@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13014608788",
+    "firebase_url": "https://miss-slay-queenke.firebaseio.com",
+    "project_id": "miss-slay-queenke",
+    "storage_bucket": "miss-slay-queenke.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13014608788:android:abd97e7d2b223f367e7d81",
+        "android_client_info": {
+          "package_name": "net.tutorgram.missslayqueenke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13014608788-01ooeelv550cne66jj22acaum06ed7kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.tutorgram.missslayqueenke",
+            "certificate_hash": "7d8decbb1138f009d8cb47091584d12912c7f712"
+          }
+        },
+        {
+          "client_id": "13014608788-5e9tk7gurkv85tqo5qfneee4uri0brfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4e9Lt4efPvG3Ltd6yPtDWZToUJ-T1Ddo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13014608788-5e9tk7gurkv85tqo5qfneee4uri0brfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
